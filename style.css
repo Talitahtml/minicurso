@@ -1,0 +1,13 @@
+body {
+    background-image:linear-gradient(
+       180deg,
+       #3358FF 5%,
+       #3342FF 20%,
+       #33D4FF 60%,
+       #CA33FF 95%
+    );
+    margin: 0;
+    min-height: 100vh;
+    width: 100%
+}
+
