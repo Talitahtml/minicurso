@@ -19,3 +19,18 @@ justify-content: center;
 position: relative
 }
 
+
+main > section button {
+   background-color: azure;
+   border:black;
+   border-radius: 4px;
+   color: black;
+   font-family: EuclidBold;
+   font-size: 15px;
+   font-weight: 700;
+   letter-spacing: -0.5px;
+   line-height: 20px;
+   padding: 9px 23px;
+   text-transform: uppercase
+}
+
