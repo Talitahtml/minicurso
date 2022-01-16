@@ -34,3 +34,8 @@ main > section button {
    text-transform: uppercase
 }
 
+#detalhes-container > li {
+    align-items: baseline;
+    display: flex
+}
+
